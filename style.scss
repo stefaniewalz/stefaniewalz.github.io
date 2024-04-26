@@ -30,13 +30,13 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   font-display: auto;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   font-display: auto;
 }
 
@@ -72,6 +72,18 @@ h1 {
   margin-left: 0px;
   margin-right: 0px;
 
+}
+
+
+papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  font-display: auto;
+  padding: 0px;
+  margin: 0px;
+  display:inline; 
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
 }
 
 .one {
